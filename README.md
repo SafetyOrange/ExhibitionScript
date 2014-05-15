@@ -16,7 +16,7 @@ TO CONFIGURE:
 
 4.Set the application to auto-run on login (as well as have your profile auto login) via system preferences -> Users
 
-5.You may need to go into your security settings and add the reformatted application into a list of applications with the power to "control your computer." SysPrefs->Security->Privacy. Any changes you make will require you to Readd the new app to the list.
+5.You may need to go into your security settings and add the reformatted application into a list of applications with the power to "control your computer." SysPrefs->Security->Privacy. Any changes you make will require you to re-add the new app to the list.
 
 
 Good Luck!
